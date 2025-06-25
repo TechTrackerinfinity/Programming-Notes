@@ -1,0 +1,30 @@
+/* li{
+    margin-bottom: 20px;
+    color: rgb(229, 78, 78);
+}
+h1{
+    margin-bottom: 40px;
+    color: rgb(3, 12, 68);
+} */
+
+
+body{
+    background-color: rgb(245, 245, 238);
+}
+
+#first{
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+#second{
+    padding-inline-end: 0px 0px 0px 0px;
+    margin-top: 0px;
+    margin-left: 2%;
+    font-weight: 550;
+}
+
+#third{
+    margin-bottom: 30px;
+}
